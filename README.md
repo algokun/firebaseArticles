@@ -3,7 +3,7 @@ A simple flutter application where users can write beautiful articles
 
 ## Download
 
-Visit : https://firebasestorage.googleapis.com/v0/b/articlesapp-24950.appspot.com/o/app%2Fapp-release.apk?alt=media&token=119de367-f27c-4f1c-9118-5da911017514
+Visit : https://www.mediafire.com/file/rlc30odk1ep4w9v/app-release.apk/file
 
 minSDKVersion : 21
 
